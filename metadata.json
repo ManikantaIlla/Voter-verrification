@@ -1,0 +1,6 @@
+{
+  "name": "BoothGuard",
+  "description": "Fraud-free booth-level election management with dual-officer real-time sync, CSV/Excel voter roll import, and end-of-day turnout reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
